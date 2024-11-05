@@ -35,4 +35,4 @@ the open-source community, all supporters of the PrusaSlicer project, Alessandro
 Ranellucci, the Slic3r team, as well as all other contributors. Without the incredible 
 work of all these individuals, a project like this would not be possible!
 
-`Mady with :heart: in Karlsruhe`
+Mady with :heart: in Karlsruhe
