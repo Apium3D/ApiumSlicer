@@ -11,7 +11,7 @@ community.
 ApiumSlicer can be compiled for Windows, macOS and Linux (not all distributions supported). Currently, precompiled binaries 
 are only available for Windows (10/11) and macOS (ARM architecture).
 
-###### Precompiled binaries for our customers are available  [here](https://www.download.apiumtec.com).
+###### Precompiled binaries for our customers are available  [here](https://www.apiumslicer.apiumtec.com).
 
 
 ### What is ApiumSlicer's license?
