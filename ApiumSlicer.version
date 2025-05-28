@@ -3,7 +3,7 @@ alpha=1.0.0-alpha1
 beta=1.0.0-beta1
 
 [common]
-release = 1.0.0
+release = 1.0.0-alpha1
 alpha = 1.0.0-alpha1
 beta = 1.0.0-beta1
 rc = 1.0.0-rc1
