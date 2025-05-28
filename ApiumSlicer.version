@@ -1,21 +1,21 @@
-2.8.1
-alpha=2.8.1-alpha1
-beta=2.8.1-beta1
+1.0.0
+alpha=1.0.0-alpha1
+beta=1.0.0-beta1
 
 [common]
-release = 2.8.1
-alpha = 2.8.1-alpha1
-beta = 2.8.1-beta1
-rc = 2.8.1-rc1
+release = 1.0.0
+alpha = 1.0.0-alpha1
+beta = 1.0.0-beta1
+rc = 1.0.0-rc1
 
 [release:win64]
-url = https://github.com/Apium3D/ApiumSlicer
+url = https://www.apiumslicer.apiumtec.com
 action = browser
 
 [release:linux]
-url = https://github.com/Apium3D/ApiumSlicer
+url = https://www.apiumslicer.apiumtec.com
 action = browser
 
 [release:osx]
-url = https://github.com/Apium3D/ApiumSlicer
+url = https://www.apiumslicer.apiumtec.com
 action = browser
